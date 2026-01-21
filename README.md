@@ -1,4 +1,4 @@
-````md
+
 # cnd-api-maker/laravel
 
 Laravel integration for **Cnd API Maker**.
